@@ -1,10 +1,10 @@
-## Smart Time Manager
+# Smart Time Manager
 
-# Overview
+## Overview
 
 Smart Time Manager is a web-based productivity tool designed to help users manage their deadlines efficiently. The application allows users to track their deadlines, receive in-app notifications, and leverage Alexa integration for voice-based reminders. The project focuses on simplicity, accessibility, and automation to assist users in managing their time effectively.
 
-# Features
+## Features
 
 Deadline Tracking: Users can enter deadlines into a table and view them in a calendar.
 
